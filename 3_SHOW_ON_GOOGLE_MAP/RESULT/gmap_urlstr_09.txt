@@ -1,0 +1,11 @@
+https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCOnkRr_swB0ls1GBTqPSTDSMYNEYFYEys&center=37.60,126.90&zoom=12&size=600x600&maptype=roadmap&path=color:yellow|weight:5|37.653804,126.89786|37.65363
+,126.894445&path=color:yellow|weight:5|37.653426,126.895007|37.653522
+,126.897882&path=color:green|weight:5|37.64949,126.899829|37.653765
+,126.897914&path=color:green|weight:5|37.648473,126.890217|37.650665
+,126.896673&path=color:green|weight:5|37.650748,126.896647|37.648551
+,126.890172&path=color:yellow|weight:5|37.65069,126.89661|37.648881
+,126.897603&path=color:orange|weight:5|37.646745,126.8912|37.648856
+,126.897663&path=color:green|weight:5|37.64894,126.897642|37.646823
+,126.891155&path=color:orange|weight:5|37.648881,126.897603|37.646864
+,126.898667&path=color:yellow|weight:5|37.646888,126.89877|37.648915
+,126.897702
